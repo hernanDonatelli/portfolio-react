@@ -15,4 +15,12 @@
   .h3{
     @apply text-3xl xl:text-4xl leading-[1.1] font-bold
   }
+  .text-outline{
+      -webkit-text-stroke: 1px #fff;
+  }
+
+  .text-outline-hover{
+      -webkit-text-stroke: 1px #c084fc;
+  }
 }
+
