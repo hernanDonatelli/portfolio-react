@@ -27,7 +27,7 @@ const services = [
     },
     {
         num: "04",
-        title: "SEO",
+        title: "App Mobile",
         description:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore repellat magni necessitatibus sapiente amet, maiores.",
         href: "",
